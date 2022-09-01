@@ -1,5 +1,5 @@
 ## Electronic_Sales_Analysis_USA
-Data Analysis on Sales Data in US States .
+Data Analysis on Sales Data in US States.
 
 This Repo contains "Solving real world data science project with Python Pandas!"
 
