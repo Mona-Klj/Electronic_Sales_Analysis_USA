@@ -16,7 +16,7 @@ Once we have cleaned up our data a bit, we move the data exploration section. In
 * What city sold the most product ?
 * What time should we display advertisemens to maximize the likelihood of customers buying products ?
 * What products are most often sold together?
-* What product sold the most? Why do you think it sold the most?
+* What product sold the most? Why do you think it sold the most ?
 
 To answer these questions we walk through many different pandas & matplotlib methods. 
 They include :
