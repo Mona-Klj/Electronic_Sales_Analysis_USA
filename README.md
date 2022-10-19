@@ -19,7 +19,7 @@ Once we have cleaned up our data a bit, we move the data exploration section. In
 * What product sold the most? Why do you think it sold the most?
 
 To answer these questions we walk through many different pandas & matplotlib methods. 
-They include :
+They include:
 * Concatenating multiple csvs together to create a new DataFrame (pd.concat)
 * Adding columns
 * Parsing cells as strings to make new columns (.str)
