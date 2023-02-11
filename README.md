@@ -26,4 +26,4 @@ They include:
 * Using the .apply() method
 * Using groupby to perform aggregate analysis
 * Plotting bar charts and lines graphs to visualize our results
-* Labeling our graphs
+* Labeling our graphs.
