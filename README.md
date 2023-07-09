@@ -7,7 +7,7 @@ In this project we use Python Pandas and Python Matplotlib to analyse and answer
 
 Started by cleaning our data, Tasks during this section include :
 
-* Drop NaN values from Dataframe
+* Drop NaN values from dataframe
 * Removing rows based on a condition
 * Change the type of columns (to_numeric, to_datetime, astype)
 
