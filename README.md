@@ -9,7 +9,7 @@ Started by cleaning our data, Tasks during this section include:
 
 * Drop NaN values from a data frame
 * Removing rows based on a condition
-* Change the type of columns (to_numeric, to_datetime, astype)
+* Change the type of columns (to_numeric,to_datetime, astype)
 
 Once we have cleaned up our data, we move to the data exploration section. In this section, we explore 5 high-level business questions related to our data:
 * What was the best month for sales? How much was earned that month?
